@@ -309,7 +309,7 @@
   -----------------------------------------*/
 
   #home {
-    background: url('../images/bee_bluebonnet2.png') no-repeat center center;
+    background: url('s3://saintabisbees.com/images/bee_bluebonnet2.png') no-repeat center center;
     background-size: cover;
     vertical-align: middle;
     display: -webkit-box;
