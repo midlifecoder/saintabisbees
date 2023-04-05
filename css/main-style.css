@@ -271,7 +271,7 @@
   }
 
   .custom-navbar .navbar-toggle .icon-bar {
-    background: #e8e52c;
+    background: #edbf18;
     border-color: transparent;
   }
 
@@ -302,7 +302,26 @@
     }
   }
 
-
+  .announcement {
+    display: inline-block;
+    height: 100%;
+    text-align: center;
+    width: 100%;
+    background: #edbf18;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+    font-size: 0.8em;
+  }
+  
+  .announcement a { 
+    color: #000000; 
+  }
+  
+  .announcement a:hover {
+    color: red;
+  }
 
   /*---------------------------------------
       HOME          
